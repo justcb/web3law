@@ -27,8 +27,9 @@ To prepare for class, you should have read the following:
 [Class 2 Notebook](/2-blockchain.ipynb)
 
 By the end of this class, you should be able to answer the following:
+- What is a blockchain?
+- What are some of the current legal definitions of blockchain?  Why are they potentially problematic?
 - What was the motivation that led to the development of cryptocurrencies, and what are some defining characteristics of cryptocurrency/blockchain? 
-- What are blockchain, bitcoin and decentralized computing platforms? 
+- What is the difference between blockchain, bitcoin, and destributed computer protocols? 
 - Who are the groups that play a role in operating a cryptocurrency? What does each of them do?  
-- What were some of the concerns that motivated the creation of Bitcoin and other cryptocurrencies?  
 
